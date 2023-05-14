@@ -19,12 +19,8 @@ export default function Homepage() {
                 <p className="paragraph1"> Ever wonder what your most listened to songs on a reciept would look like.
                     We did not either, but here it is, sign in below using Spotify to get started
                 </p>
-                <div className="buttoncenter">
-                <button style={{}}> Log In with Spotify</button>
-                </div>
-                <p style={{fontSize: '8px'}}>
-                    Not associated with the official Recieptifiy website
-                </p>
+                <button className="spotifyLogin"> Log In with Spotify</button>
+            
             </div>
             </div>
 

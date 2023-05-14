@@ -8,6 +8,7 @@
     
 }
 .LanderSection1{
+    margin-left: 200px;
     display: grid;
     align-items: center;
     justify-content: center;    
@@ -15,6 +16,9 @@
     grid-auto-flow: column;
     gap: 1px;
     
+}
+.spotifyLogin{
+
 }
 .LS1text{
 
