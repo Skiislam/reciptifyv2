@@ -2,29 +2,24 @@
 
 *{
     font-family: 'Oswald';
+    background-color: #2C2D30;
+
 
 }
-.section1{
-    
-}
+
 .LanderSection1{
     margin-left: 200px;
     display: grid;
     align-items: center;
-    justify-content: center;    
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-auto-flow: column;
-    gap: 1px;
-    
+    grid-template-columns: auto auto auto;
 }
-.spotifyLogin{
 
-}
 .LS1text{
-
+    text-align: center;
 }
 .section1{
-    background-color: #847577;
+    
+    
 }
 .titleh1{
 
@@ -37,8 +32,17 @@
     text-align: center;
 
 }
-.buttoncenter{ 
-    margin: 0;
-    position: absolute;
-    top: 50%;
+.section2{
+    margin-top: 50px;
+    text-align: center;
+}
+.title1{
+    color: white;
+    font-size: 25px;
+
+}
+.LanderSection2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;    
+    justify-content: center;
 }
